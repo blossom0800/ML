@@ -1,6 +1,5 @@
 Source: https://moondol-ai.tistory.com/149
-
-`Graphviz's executables not found` 발생 시
+`Graphviz's executables not found` 발생 시 코드
 
 ```
 import os 
